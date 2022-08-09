@@ -14,7 +14,7 @@ This repository includes various python related libraries that i have worked on.
       g. Random Forest <br/>
       h. Naive Bayes <br/>
       i. Gradient Descent <br/> 
-      j. Support vecort machine <br/>
+      j. Support vector machine <br/>
     Implementation to save an ML model and convert to pickle file. <br/>
 3. Orange<br/>
     Data mining tool<br/>
@@ -22,7 +22,7 @@ This repository includes various python related libraries that i have worked on.
     Pandas is mainly used for data analysis and associated manipulation of tabular data in Dataframes.<br/>
     Various methods of pre-processing of data have been implemented<br/>
 5. PyTest<br/>
-    pytest is a mature full-featured Python testing tool that helps you write better programs.
+    Pytest is a mature full-featured Python testing tool that helps you write better programs.
 6. Selenium<br/>
     Selenium is an open source tool which is used for automating the test cases carried out on web browsers or the web applications that are being tested using any web browser
 7. Tkinter<br/>
